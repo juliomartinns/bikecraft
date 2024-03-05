@@ -8,6 +8,7 @@
   gap: 40px;
   padding-top: 60px;
   padding-bottom: 60px;
+  background: url("../../img/dec/top-right.svg") no-repeat top 40px right 20px;
 }
 
 /* Essa parte comentada junto com a de baixo, é uma opção de poscionar meu preço em cima da imagem usando position absolute. Porém, no curso, o André mostra uma outra opção utilizando display: grid, que é a forma como está logo abaixo.
